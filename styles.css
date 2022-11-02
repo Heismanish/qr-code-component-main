@@ -5,7 +5,7 @@
   }
 
 html{
-    font-size: 62.5%;
+    font-size: 62.5%; 
 }
   
   body{
@@ -26,7 +26,7 @@ html{
     min-height: 100vh;
   }
 
-  .container{
+  .parent-container{
     width: 30rem;
     background-color: hsl(0, 0%, 100%);
 
@@ -37,7 +37,7 @@ html{
     gap: 2.4rem;
 
     padding: 1.6rem;
-    border-radius: 0.8rem;
+    border-radius: 1.2rem;
 
     box-shadow: 0 12rem 10rem 12rem rgba(0,0,0,0.05);
   }
