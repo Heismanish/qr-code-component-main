@@ -19,14 +19,14 @@ html{
  
   }
 
-  .parent{
+  .parent-container{
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
   }
 
-  .parent-container{
+  .container{
     width: 30rem;
     background-color: hsl(0, 0%, 100%);
 
